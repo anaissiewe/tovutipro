@@ -18,20 +18,20 @@ function Service2() {
           <div className="row justify-content-center g-4">
             <div className="col-lg-4 col-md-6 col-sm-10">
               <div
-                className="service-item2 wow fadeInDown"
-                data-wow-duration="1.5s"
-                data-wow-delay="0.2s"
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="0.2s"
               >
                 <img
-                  src="assets/images/icons/service21.svg"
-                  className="service21-icon"
-                  alt="image"
+                    src="assets/images/icons/service01.svg"
+                    className="service21-icon"
+                    alt="image"
                 />
                 <div className="service-content">
                   <span>01</span>
                   <h4>
                     <Link href="/service-details">
-                      <a>Website Devolopment</a>
+                      <a className="pr-4">Website Development</a>
                     </Link>
                   </h4>
                   <p className="para">
@@ -42,14 +42,14 @@ function Service2() {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-10">
               <div
-                className="service-item2 wow fadeInDown"
-                data-wow-duration="1.5s"
-                data-wow-delay="0.4s"
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="0.4s"
               >
                 <img
-                  src="assets/images/icons/service22.svg"
-                  className="service21-icon"
-                  alt="image"
+                    src="assets/images/icons/service02.svg"
+                    className="service21-icon"
+                    alt="image"
                 />
                 <div className="service-content">
                   <span>02</span>
@@ -66,14 +66,14 @@ function Service2() {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-10">
               <div
-                className="service-item2 wow fadeInDown"
-                data-wow-duration="1.5s"
-                data-wow-delay="0.6s"
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="0.6s"
               >
                 <img
-                  src="assets/images/icons/service23.svg"
-                  className="service21-icon"
-                  alt="image"
+                    src="assets/images/icons/service03.svg"
+                    className="service21-icon"
+                    alt="image"
                 />
                 <div className="service-content">
                   <span>03</span>
@@ -90,14 +90,14 @@ function Service2() {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-10">
               <div
-                className="service-item2 wow fadeInDown"
-                data-wow-duration="1.5s"
-                data-wow-delay="0.8s"
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="0.8s"
               >
                 <img
-                  src="assets/images/icons/service24.svg"
-                  className="service21-icon"
-                  alt="image"
+                    src="assets/images/icons/service04.svg"
+                    className="service21-icon"
+                    alt="image"
                 />
                 <div className="service-content">
                   <span>04</span>
@@ -114,14 +114,14 @@ function Service2() {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-10">
               <div
-                className="service-item2 wow fadeInDown"
-                data-wow-duration="1.5s"
-                data-wow-delay="1s"
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="1s"
               >
                 <img
-                  src="assets/images/icons/service25.svg"
-                  className="service21-icon"
-                  alt="image"
+                    src="assets/images/icons/service05.svg"
+                    className="service21-icon"
+                    alt="image"
                 />
                 <div className="service-content">
                   <span>05</span>
@@ -138,14 +138,14 @@ function Service2() {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-10">
               <div
-                className="service-item2 wow fadeInDown"
-                data-wow-duration="1.5s"
-                data-wow-delay="1.2s"
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="1.2s"
               >
                 <img
-                  src="assets/images/icons/service26.svg"
-                  className="service21-icon"
-                  alt="image"
+                    src="assets/images/icons/service06.svg"
+                    className="service21-icon"
+                    alt="image"
                 />
                 <div className="service-content">
                   <span>06</span>
@@ -157,6 +157,78 @@ function Service2() {
                   <p className="para">
                     Offering expert guidance and strategic insights to help you navigate the complexities
                     of the digital world and achieve your business objectives.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 col-sm-10">
+              <div
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="0.8s"
+              >
+                <img
+                    src="assets/images/icons/service07.svg"
+                    className="service21-icon fill-white"
+                    alt="image"
+                />
+                <div className="service-content">
+                  <span>07</span>
+                  <h4>
+                    <Link href="/service-details">
+                      <a>E-Commerce Solutions</a>
+                    </Link>
+                  </h4>
+                  <p className="para">
+                    Scale your sales with our robust e-commerce platforms. From product management to payment gateways, we provide comprehensive solutions that make online shopping easy and secure for your customers.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 col-sm-10">
+              <div
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="1s"
+              >
+                <img
+                    src="assets/images/icons/service08.svg"
+                    className="service21-icon"
+                    alt="image"
+                />
+                <div className="service-content">
+                  <span>08</span>
+                  <h4>
+                    <Link href="/service-details">
+                      <a>SEO and SEM Services</a>
+                    </Link>
+                  </h4>
+                  <p className="para">
+                    Improve your website’s visibility on search engines with our SEO strategies that are proven to increase traffic. Additionally, our SEM tactics can help you gain immediate visibility and drive conversions.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-6 col-sm-10">
+              <div
+                  className="service-item2 wow fadeInDown"
+                  data-wow-duration="1.5s"
+                  data-wow-delay="1.2s"
+              >
+                <img
+                    src="assets/images/icons/service09.svg"
+                    className="service21-icon"
+                    alt="image"
+                />
+                <div className="service-content">
+                  <span>09</span>
+                  <h4>
+                    <Link href="/service-details">
+                      <a>Branding and Creative Services</a>
+                    </Link>
+                  </h4>
+                  <p className="para">
+                    Create a lasting impression with our branding services. From logo design to corporate branding strategies, we help you establish a strong, cohesive identity that resonates with your audience.
                   </p>
                 </div>
               </div>

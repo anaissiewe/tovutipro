@@ -80,11 +80,10 @@ function Banner2() {
                     <div className="col-xl-7 col-lg-10">
                       <div className="banner2-content">
                         <span>Welcome to Our Agency</span>
-                        <h1>Smart Brand Ideas for your are Here</h1>
+                        <h1>Transforming Your Vision into Digital Reality</h1>
                         <p>
-                          Get the most of reduction in your team’s operating
-                          costs for the whole product which creates amazing
-                          UI/UX experiences.
+                          At Tovuti, we create bespoke digital solutions that embody your brand’s spirit and engage your audience.
+                          Let's build something remarkable together.
                         </p>
                         <Link href="/project">
                           <a className="eg-btn btn--primary2 btn--lg">
@@ -104,11 +103,11 @@ function Banner2() {
                     <div className="col-xl-7 col-lg-10">
                       <div className="banner2-content">
                         <span>Welcome To Auction House</span>
-                        <h2>Creative To Plan Your Business Company</h2>
+                        <h2>Innovative Solutions for Every Need</h2>
                         <p>
-                          Nulla facilisi. Maecenas ac tellus ut ligula interdum
-                          convallis. Suspendisse sit amet turpina sagittis,
-                          ultrices dui et, aliquam urna.
+                          From e-commerce to mobile apps,
+                          our cutting-edge technology and creative design ensure your digital presence stands out.
+                          Discover the Tovuti difference.
                         </p>
                         <Link href="/project">
                           <a className="eg-btn btn--primary2 btn--lg">

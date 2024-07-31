@@ -98,9 +98,9 @@ function Header() {
       >
         <div className="menu-toggle-wrap bg-white">
           <div className="sidebar-top-area d-flex justify-content-between align-items-center">
-            <div className="sidebar-logo px-4 py-3 rounded">
+            <div className="sidebar-logo w-32 rounded">
               <Link href="#">
-                <img src="assets/images/icons/sidebar-logo.svg" alt="image" />
+                <img src="assets/images/icons/sidebar-logo.svg" alt="image" className="w-full h-full object-contain"/>
               </Link>
             </div>
             <div className="cross-icon" onClick={showSidebarMenu}>
@@ -199,12 +199,12 @@ function Header() {
       <header
         className="header-area style-2"
       >
-        <div className="header-logo">
+        <div className="header-logo w-32">
           <Link href="/ ">
             <a>
               <img
                 alt="image"
-                src="assets/images/icons/header2-logo.svg"
+                src="assets/images/icons/sidebar-logo.svg"
                 className="img-fluid"
               />
             </a>

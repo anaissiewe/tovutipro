@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import Head from "next/head";
 
 import "../public/assets/css/all.css";
+import "../public/assets/css/globals.css";
 import "../public/assets/css/bootstrap.min.css";
 import "../public/assets/css/boxicons.min.css";
 import "../public/assets/css/bootstrap-icons.css";

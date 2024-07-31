@@ -98,8 +98,8 @@ Template Name: Naftend
 
 :root {
   /*color Variable*/
-  --primary-color1: rgb(230, 0, 76);
-  --primary-opcaity: rgba(230, 0, 76, 0.1);
+  --primary-color1: rgb(11,85,139);
+  --primary-opcaity: rgba(0, 202, 235, 0.1);
 
   --primary-color2: rgb(11,85,139);
   --primary-opcaity2: rgba(0, 202, 235, 0.1);
@@ -3636,7 +3636,7 @@ header.style-4 {
 
     &::before {
       content: "";
-      background-image: url("../assets/images/bg/home1-banner.png");
+      background-image: url("../assets/images/bg/banner1.png");
       background-color: rgba(#00010c, 0.5);
       background-blend-mode: multiply;
       background-size: cover;
@@ -3681,7 +3681,7 @@ header.style-4 {
 
     &::before {
       content: "";
-      background-image: url("../assets/images/bg/banner2-bg2.png");
+      background-image: url("../assets/images/bg/banner2.png");
       background-color: rgba(#00010c, 0.5);
       background-blend-mode: multiply;
       background-size: cover;
@@ -3910,7 +3910,7 @@ header.style-4 {
           #00010c 21.87%,
           rgba(0, 0, 0, 0) 70.31%
         ),
-        url("../assets/images/bg/banner31.png");
+        url("../assets/images/bg/banner1.png");
       background-size: cover;
       position: absolute;
       width: 100%;
@@ -3946,7 +3946,7 @@ header.style-4 {
           #00010c 21.87%,
           rgba(0, 0, 0, 0) 70.31%
         ),
-        url("../assets/images/bg/banner32.png");
+        url("../assets/images/bg/banner2.png");
       background-size: cover;
       position: absolute;
       width: 100%;
