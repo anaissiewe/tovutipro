@@ -157,17 +157,10 @@ function Footer({ footerStyle, footerImage }) {
             <div className="row d-flex align-items-center g-3">
               <div className="col-lg-6 d-flex justify-content-lg-start justify-content-center">
                 <p>
-                  Copyright 2022{" "}
+                  Copyright 2024{" "}
                   <Link href="#" className="egns-lab">
-                    Spinner
+                    Tovuti
                   </Link>{" "}
-                  | Design By{" "}
-                  <a
-                    href="https://themeforest.net/user/egenslab"
-                    className="egns-lab"
-                  >
-                    Egens Lab
-                  </a>
                 </p>
               </div>
               <div className="col-lg-6 d-flex justify-content-lg-end justify-content-center align-items-center">
